@@ -1,2 +1,3 @@
-# python-homework
-Week 2 Python Homework
+# FinTech_homework
+## Python Homework
+## Pandas Homework
